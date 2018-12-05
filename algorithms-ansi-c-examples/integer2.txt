@@ -1,0 +1,6 @@
+5
+3
+1 6 item_A
+2 10 item_B
+3 12 item_C
+
