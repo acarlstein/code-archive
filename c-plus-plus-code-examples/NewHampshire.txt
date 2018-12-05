@@ -1,0 +1,15 @@
+New Hampshire
+Wildcats
+4 8 7 17
+11
+Dane Diliegro		F 	6-8 	230 	Freshman	24	24.0	4.7	6.2	0.4
+Tyrece Gibbs		G 	6-2 	205 	Junior		24	36.0	14.4	4.6	3.1	
+Joe Cheslock		G 	6-2 	190 	Sophomore	1	1.0	0.0	0.0	0.0
+James Valladares	F 	6-9 	230 	Freshman	22	9.0	1.5	1.6	0.1
+Rony Tchatchoua		F 	6-6 	210 	Freshman	18	18.8	5.4	3.3	0.4
+Tyrone Conley		G 	6-3 	175 	Freshman	22	26.4	8.1	2.6	1.4
+Eric Gilchrese		G 	6-1 	170 	Junior		24	28.3	10.5	2.8	3.0
+Alvin Abreu		G 	6-1 	180 	Freshman	24	31.8	12.4	3.7	1.6
+Radar Onguetou		F 	6-5 	225 	Freshman	4	17.8	1.8	4.8	1.0
+Mike Christensen	F 	6-8 	215 	Senior		24	29.8	12.0	5.8	2.4
+Shawn Tobey		F 	6-5 	195 	Senior		10	6.8	1.1	1.3	0.1

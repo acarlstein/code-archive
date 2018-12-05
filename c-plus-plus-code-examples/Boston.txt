@@ -1,0 +1,19 @@
+Boston 
+Terriers
+7 5 10 14
+15
+Ibrahim Konate	F 	6-8 	205 	Junior		12	9.3	0.9	1.7	0.1
+Matt Wolff	G 	6-6 	215 	Junior		24	27.5	5.3	4.1	2.0
+Sam Tully	G 	6-2 	175 	Junior		2	1.5	0.0	0.5	0.0
+Matt Killen	C 	6-10 	224 	Freshman	2	1.5	0.0	0.5	0.0
+Corey Lowe	G 	6-2 	200 	Sophomore	19	33.0	17.8	3.6	2.9
+Valdas Sirutis	F 	6-7 	215 	Sophomore	23	12.3	1.4	1.6	0.4
+Tunde Agboola	G 	6-4 	197 	Sophomore	2	1.5	1.0	0.5	0.0
+Will Creekmore	F 	6-9 	245 	Freshman	4	12.5	2.8	2.5	0.0
+Carlos Strong	G 	6-3 	215 	Sophomore	22	30.4	11.1	3.8	1.9
+John Holland	G 	6-5 	190 	Freshman	23	23.8	9.5	4.6	1.1
+Tyler Morris	G 	6-2 	190 	Sophomore	15	26.9	6.7	3.3	2.0
+Scott Brittain	F 	6-9 	221 	Sophomore	23	27.3	10.0	6.0	1.2
+Marques Johnson	G 	5-11 	165 	Junior		23	22.2	3.2	2.0	2.7
+Sherrod Smith	G 	6-4 	185 	Sophomore	6	2.0	0.7	0.5	0.0
+Max Gotzler	F 	6-7 	245 	Junior		19	15.3	3.5	2.4	0.3

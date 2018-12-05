@@ -1,0 +1,17 @@
+Stony Brook
+Seawolves
+1 11 4 20
+13
+Marques Cox		G 	6-1 	195 	Junior		16	4.1	0.1	0.2	0.1
+Eddie Castellanos	G 	6-1 	180 	Sophomore	22	19.5	2.7	1.9	2.7
+Michael Tyree		G 	5-11 	175 	Junior		24	15.8	7.7	1.0	0.5
+Ricky Lucas		G 	6-4 	215 	Senior		24	32.3	13.7	4.7	1.2
+Mitchell Beauford	G 	5-11 	185 	Senior		24	26.8	9.6	2.5	2.2
+Rio Pitt		F 	6-7 	210 	Sophomore	22	10.0	1.5	2.1	0.1
+Demetrius Young		F 	6-6 	200 	Junior		24	29.3	6.9	7.1	0.3
+Jermol Paul		G 	6-4 	210 	Freshman	24	14.8	4.0	1.8	0.3
+Marcus Robinson		G 	6-3 	185 	Sophomore	1	4.0	0.0	2.0	0.0
+Chris Martin		G 	6-1 	210 	Freshman	20	13.1	4.8	1.3	0.9
+Andrew Goba		F 	6-9 	235 	Junior		4	15.0	0.5	1.8	0.0
+Nick Carter		G 	6-1 	185 	Junior		21	16.7	6.5	1.7	0.8
+Emanuel Neto		C 	6-9 	245 	Senior		22	26.4	6.1	7.5	0.2

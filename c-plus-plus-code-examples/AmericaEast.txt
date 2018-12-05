@@ -1,0 +1,9 @@
+UMBC.txt
+Hartford.txt
+Albany.txt
+Vermont.txt
+Boston.txt
+Binghamton.txt
+NewHampshire.txt
+Maine.txt
+StonyBrook.txt

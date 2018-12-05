@@ -1,0 +1,18 @@
+Hartford 
+Hawks
+8 4 14 13
+14
+Jaret VonRosenberg	G 	6-2 	185 	Junior		24	32.3	9.3	3.2	3.5
+Warren McLendon		F 	6-6 	250 	Junior		25	22.8	12.4	4.9	1.2
+Michael Turner		G 	6-5 	215 	Junior		27	32.9	8.5	5.8	3.6
+Tambo Barrow		G 	6-0 	190 	Junior		4	0.8	0.0	0.0	0.0
+Andres Torres		G 	5-10 	200 	Freshman	22	10.3	2.1	0.7	0.9
+Brian Glowiak		G 	6-3 	180 	Senior		27	13.9	4.9	1.1	0.7
+Clint Kuban		G 	6-2 	185 	Junior		3	1.0	0.0	0.3	0.0
+David Bookman		F 	6-7 	225 	Sophomore	7	3.7	0.7	0.3	0.3
+Fabrice Tafo		F 	6-7 	225 	Junior		2	17.0	6.0	2.0	0.0
+Rich Baker		G 	6-1 	180 	Senior		14	25.9	5.1	2.9	2.0	
+Morgan Sabia		F 	6-6 	200 	Freshman	27	21.1	9.8	3.7	0.6
+Joe Zeglinski		G 	6-0 	185 	Sophomore	27	34.8	15.6	3.8	2.6
+Anthony Minor		F 	6-6 	200 	Freshman	27	13.9	4.0	1.9	0.4
+Kevin Estes		F 	6-7 	230 	Freshman	24	13.6	4.2	1.9	0.5

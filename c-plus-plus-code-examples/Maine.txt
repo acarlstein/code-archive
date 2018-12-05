@@ -1,0 +1,18 @@
+Maine 
+Black Bears
+3 8 7 17
+14
+Troy Barnies	F 	6-7 	205 	Freshman	15	12.1	3.0	2.2	0.3
+Robby Hanzlik	G 	6-3 	180 	Freshman	15	12.5	2.9	0.9	0.9
+Jason Hight	G 	6-4 	182 	Junior		16	20.3	3.5	2.4	2.4
+Junior Bernal	G 	6-5 	200 	Sophomore	23	33.5	11.2	4.9	3.2
+Jay Uhrin	G 	6-2 	170 	Freshman	4	2.0	1.8	0.3	0.3
+Kaimondre Owes	G 	6-3 	195 	Junior		13	30.8	12.5	3.1	2.4
+Sean McNally	F 	6-7 	230 	Freshman	24	21.3	5.3	4.5	0.4
+Mark Socoby	G 	6-6 	190 	Sophomore	24	35.5	14.5	5.9	2.2
+Brian Andre	C 	6-9 	310 	Senior		23	24.0	9.7	5.3	0.9
+Pat Woodbrey	F 	6-4 	200 	Senior		1	4.0	1.0	2.0	0.0
+Sean Costigan	F 	6-7 	200 	Freshman	15	9.7	1.1	1.1	0.5
+Jordan Cook	F 	6-10 	230 	Sophomore	23	16.0	3.9	3.2	0.4
+Malachi Peay	G 	6-6 	185 	Freshman	14	7.4	2.5	0.7	0.6
+Philippe Bofia	F 	6-6 	230 	Junior		23	19.2	6.4	3.7	1.0

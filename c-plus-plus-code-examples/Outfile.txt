@@ -1,0 +1,6 @@
+1 23
+2 This is
+3 An example
+4 of thingsSEMI-COLON
+5 That we can inputSEMI-COLON
+6 SEMI-COLONSEMI-COLON aaa SEMI-COLON

@@ -1,0 +1,14 @@
+Alejandro G. Carlstein - Lab 9
+
+The first tree will have all the nodes to the left.
+
+The second tree will have all the nodes to the right.
+
+The third tree will be balance.
+
+Since the second tree have to check first to the left and then to the right
+it will take more time than the first tree. 
+
+Also since the third tree is balance it will find faster 
+the values than the second tree
+

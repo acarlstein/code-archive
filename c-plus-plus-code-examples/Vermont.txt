@@ -1,0 +1,17 @@
+Vermont
+Catamounts
+7 5 12 12 
+13
+Joey Accaoui	G 	5-10 	155 	Freshman	22	12.5	3.5	0.5	0.5
+Nick Vier	G 	6-1 	165 	Sophomore	24	20.0	4.8	1.7	3.0
+Mike Trimboli	G 	6-1 	180 	Junior		24	36.4	18.2	3.7	4.6
+Kyle Cieplicki	G 	6-4 	195 	Senior		22	32.8	10.5	3.6	2.1
+Chad Powlovich	G 	6-3 	210 	Senior		24	16.1	1.9	2.5	0.7
+Marqus Blakely	F 	6-5 	210 	Sophomore	22	32.7	19.0	10.0	2.1
+Timothy McCrory	F 	6-6 	200 	Senior		16	21.6	5.8	5.2	0.7
+Evan Fjeld	F 	6-8 	215 	Freshman	13	15.4	5.5	3.0	0.5
+Jordan Dean	F 	6-6 	205 	Junior		12	1.7	0.4	0.3	0.0
+Colin McIntosh	F 	6-8 	210 	Junior		24	19.4	7.0	3.8	0.8
+Ryan Shields	F 	6-8 	245 	Junior		24	10.4	1.6	2.1	0.4
+Kyle Robbins	F 	6-10 	250 	Freshman	10	1.6	0.2	0.3	0.1
+Garrett Kissel	F 	6-9 	245 	Freshman	16	4.8	0.8	0.8	0.0
